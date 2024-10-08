@@ -1,0 +1,7 @@
+C:\Users\danap\source\repos\Scoreboard1\Scoreboard1\bin\Debug\Scoreboard1.exe.config
+C:\Users\danap\source\repos\Scoreboard1\Scoreboard1\bin\Debug\Scoreboard1.exe
+C:\Users\danap\source\repos\Scoreboard1\Scoreboard1\bin\Debug\Scoreboard1.pdb
+C:\Users\danap\source\repos\Scoreboard1\Scoreboard1\obj\Debug\Scoreboard1.csproj.AssemblyReference.cache
+C:\Users\danap\source\repos\Scoreboard1\Scoreboard1\obj\Debug\Scoreboard1.csproj.CoreCompileInputs.cache
+C:\Users\danap\source\repos\Scoreboard1\Scoreboard1\obj\Debug\Scoreboard1.exe
+C:\Users\danap\source\repos\Scoreboard1\Scoreboard1\obj\Debug\Scoreboard1.pdb
